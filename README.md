@@ -24,3 +24,4 @@ Of course, there is no real reason why would one use this and not visit Youtube 
 - by choosing download video option, you are prompted to choose from available quality formats. These are chosen from what is available. Only formats with audio are presented. Unfortunately Higher quality formats are usually without audio.
 
 ## Screenshots
+![image](https://github.com/kamildemocko/youtube_searcher/assets/50048116/61189548-0c04-4035-b085-9d81d4fda9f0)
